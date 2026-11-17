@@ -992,5 +992,5 @@ The project was completed as a group semester project through progressive module
 
 # Repository Maintainer
 
-**Ar-Rafi Ishraq**  
+**Shafayat-Ul-Firoz**  
 Electrical and Electronic Engineering
